@@ -2,7 +2,7 @@ from fastapi import FastAPI
 
 
 app = FastAPI(
-    title="TinySteps API",
+    title="BE API",
     description="Basic FastAPI application",
     version="0.1.0",
 )
